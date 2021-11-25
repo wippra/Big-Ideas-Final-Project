@@ -1,0 +1,6 @@
+geopandas==0.9.0
+haversine==2.5.1
+matplotlib==2.2.2
+numpy==1.19.0
+pandas==0.25.1
+tqdm==4.62.3
