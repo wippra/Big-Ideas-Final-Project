@@ -1,0 +1,8 @@
+name: cmpinf00100-final-proj
+dependencies:
+  - numpy
+  - matplotlib
+  - geopandas
+  - descartes
+  - pandas
+  - vim
