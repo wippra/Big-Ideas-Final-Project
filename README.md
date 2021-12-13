@@ -3,6 +3,9 @@
 ## Team Name: Group 28
 
 ## Abstract
+Our group's final project was on The Best Neighborhood in Pittsburgh for Criminal Getaway Drivers. We analyzed speed hump and police arrest data to find our conclusions.  
+For Pittsburgh Speed Hump Data, it was found that the neighborhoods Overbrook, Stanton Heights, and Central Oakland have the lowest speedhump count (of 1), making it the best neighborhood for criminals/ getaway drivers and implying that it is the worst neighborhoods for the general public in that respect. We also found that Squirrel Hill was the best neighborhood for avoiding getaway drivers as it had 18 speed humps. 
+Police Arrest Data was used to gauge the chances of catching criminal getaway drivers. The data was analyzed to indicate the level of police presence/ law enforcement activity through the amount of arrests, change in number of arrests, and the average distances of the arrests. Using these metrics, we found Squirrel Hill to be the best neighborhood in Pittsburgh to avoid criminal getaway drivers.
 
 ## Team Members
 - Adam Wipprecht <amw290@pitt.edu>
